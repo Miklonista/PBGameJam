@@ -1596,3 +1596,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2022.12.01-18.35.53:550][292]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.77% of total time (compiled  128 times, average 0.95 sec, max 1.62 sec, min 0.55 sec)
 [2022.12.01-18.35.53:550][292]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 3.55% of total time (compiled  128 times, average 0.89 sec, max 1.24 sec, min 0.66 sec)
 [2022.12.01-18.35.53:550][292]LogShaderCompilers: Display: ================================================
+[2022.12.01-18.37.05:542][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.01-18.37.05:689][996]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Scenes/Piotr/3/X6/4I220HT0LA9LBA5K56Q060
+[2022.12.01-18.37.05:689][996]LogSavePackage: Moving 'D:/PBGameJam/MyProject/Saved/4I220HT0LA9LBA5K56Q060AF3F2EE24E7974585F5A45AC15D84AE2.tmp' to 'D:/PBGameJam/MyProject/Content/__ExternalActors__/Scenes/Piotr/3/X6/4I220HT0LA9LBA5K56Q060.uasset'
+[2022.12.01-18.37.05:704][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 1.61 sec)
+[2022.12.01-18.37.05:704][996]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Scenes/Piotr does not exist, will not scan.
+[2022.12.01-18.37.05:708][996]AssetCheck: New page: Asset Save: StaticMeshActor_2
+[2022.12.01-18.37.05:708][996]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Scenes/Piotr.Piotr:PersistentLevel.StaticMeshActor_2
